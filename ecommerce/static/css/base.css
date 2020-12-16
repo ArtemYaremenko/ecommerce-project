@@ -23,3 +23,7 @@ body {
     color: red;
     font-weight: bold;
 }
+
+.custom-div {
+    margin-bottom: 20px !important;
+}
